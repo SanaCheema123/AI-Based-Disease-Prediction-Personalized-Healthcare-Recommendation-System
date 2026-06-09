@@ -1,0 +1,42 @@
+Disease,Description,Precaution,Diet,Specialist,Risk_Level
+Fungal infection,A skin infection caused by fungus,Keep skin dry and maintain hygiene,Eat vitamin-rich food and drink enough water,Dermatologist,Low
+Allergy,An immune reaction to allergens,Avoid dust pollen and known allergens,Avoid trigger foods and eat fresh fruits,Allergist,Low
+GERD,Acid reflux condition affecting stomach and food pipe,Avoid spicy food and do not lie down after meals,Eat light meals and avoid oily food,Gastroenterologist,Medium
+Chronic cholestasis,A condition where bile flow from liver is reduced,Consult doctor and avoid alcohol,Low-fat diet and proper hydration,Hepatologist,Medium
+Drug Reaction,Reaction caused by medicine or drug allergy,Stop suspected medicine and consult doctor,Avoid self-medication and drink water,General Physician,Medium
+Peptic ulcer disease,Sores in stomach or intestine lining,Avoid spicy food and painkiller misuse,Soft diet and avoid caffeine,Gastroenterologist,Medium
+AIDS,A serious immune system disorder,Consult specialist and follow medical care,High-protein balanced diet,Infectious Disease Specialist,High
+Diabetes,A metabolic disorder with high blood sugar,Monitor sugar and exercise regularly,Low-sugar high-fiber diet,Endocrinologist,Medium
+Gastroenteritis,Stomach and intestine infection,Drink fluids and maintain hygiene,ORS banana rice and light food,Gastroenterologist,Medium
+Bronchial Asthma,A breathing disorder with airway inflammation,Avoid smoke dust and cold exposure,Warm fluids and balanced diet,Pulmonologist,Medium
+Hypertension,High blood pressure condition,Reduce salt and monitor BP,Low-salt heart-friendly diet,Cardiologist,Medium
+Migraine,Severe headache disorder,Avoid stress bright light and irregular sleep,Hydration and magnesium-rich foods,Neurologist,Low
+Cervical spondylosis,Neck spine degeneration causing pain,Maintain posture and avoid heavy lifting,Calcium and vitamin D rich diet,Orthopedic Specialist,Low
+Paralysis (brain hemorrhage),Loss of movement due to brain bleeding,Emergency medical care is required,Doctor-guided diet only,Neurologist,High
+Jaundice,Yellowing of skin due to liver problem,Avoid oily food and consult doctor,Light low-fat liver-friendly diet,Hepatologist,Medium
+Malaria,Mosquito-borne parasitic disease,Avoid mosquito bites and use nets,Fluids fruits and light meals,Infectious Disease Specialist,Medium
+Chicken pox,Viral infection causing itchy rash,Avoid scratching and isolate patient,Soft foods fluids and vitamin-rich diet,Dermatologist,Medium
+Dengue,Mosquito-borne viral fever,Monitor platelets and avoid self-medication,Fluids papaya leaf only with doctor advice,Infectious Disease Specialist,High
+Typhoid,Bacterial infection causing fever and weakness,Use clean water and consult doctor,Soft bland diet and fluids,Infectious Disease Specialist,Medium
+hepatitis A,Viral liver infection from contaminated food or water,Maintain hygiene and avoid oily food,Low-fat diet fruits and fluids,Hepatologist,Medium
+Hepatitis B,Viral liver infection spread through blood/body fluids,Consult doctor and avoid alcohol,Liver-friendly balanced diet,Hepatologist,High
+Hepatitis C,Viral liver infection that may become chronic,Consult specialist and avoid alcohol,Low-fat nutritious diet,Hepatologist,High
+Hepatitis D,Liver infection occurring with Hepatitis B,Specialist medical care required,Liver-protective diet,Hepatologist,High
+Hepatitis E,Viral liver infection usually from contaminated water,Drink clean water and rest,Low-fat diet and fluids,Hepatologist,Medium
+Alcoholic hepatitis,Liver inflammation caused by alcohol,Stop alcohol immediately,High-protein liver-friendly diet,Hepatologist,High
+Tuberculosis,Bacterial lung infection,Complete treatment and wear mask,High-protein nutritious diet,Pulmonologist,High
+Common Cold,Viral upper respiratory infection,Rest and avoid cold exposure,Warm fluids soups and fruits,General Physician,Low
+Pneumonia,Lung infection causing breathing difficulty,Seek medical care and rest,Protein-rich diet and fluids,Pulmonologist,High
+Dimorphic hemmorhoids(piles),Swollen veins in rectal area,Avoid constipation and straining,High-fiber diet and water,General Surgeon,Medium
+Heart attack,Blocked blood flow to heart,Emergency medical care required,Doctor-guided cardiac diet,Cardiologist,High
+Varicose veins,Enlarged twisted veins usually in legs,Avoid standing long and elevate legs,High-fiber low-salt diet,Vascular Specialist,Low
+Hypothyroidism,Underactive thyroid hormone condition,Take prescribed thyroid medicine,Iodine selenium balanced diet,Endocrinologist,Medium
+Hyperthyroidism,Overactive thyroid hormone condition,Consult endocrinologist and monitor thyroid,Avoid excess caffeine and eat balanced diet,Endocrinologist,Medium
+Hypoglycemia,Low blood sugar condition,Take quick sugar source and monitor glucose,Small frequent balanced meals,Endocrinologist,Medium
+Osteoarthristis,Joint degeneration causing pain and stiffness,Maintain healthy weight and exercise gently,Calcium vitamin D and anti-inflammatory foods,Orthopedic Specialist,Low
+Arthritis,Joint inflammation causing pain and swelling,Exercise gently and avoid joint stress,Anti-inflammatory balanced diet,Rheumatologist,Medium
+(vertigo) Paroymsal  Positional Vertigo,Inner ear disorder causing dizziness,Avoid sudden head movement,Hydration and balanced diet,ENT Specialist,Low
+Acne,Skin condition causing pimples and inflammation,Keep skin clean and avoid oily products,Low-oil diet and hydration,Dermatologist,Low
+Urinary tract infection,Bacterial infection in urinary tract,Drink water and maintain hygiene,Fluids cranberry and balanced diet,Urologist,Medium
+Psoriasis,Chronic skin inflammation with scaly patches,Avoid triggers and moisturize skin,Anti-inflammatory foods,Dermatologist,Medium
+Impetigo,Bacterial skin infection causing sores,Maintain hygiene and avoid sharing towels,Vitamin-rich food and hydration,Dermatologist,Medium

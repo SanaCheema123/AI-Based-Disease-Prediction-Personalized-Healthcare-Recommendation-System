@@ -1,0 +1,11 @@
+Date_Time,Selected_Symptoms,Predicted_Disease,Confidence,Risk_Level,Specialist,Patient_Name,Age,Gender,Height_cm,Weight_kg,Blood_Pressure
+2026-06-09 13:50:17,"diarrhoea, nodal_skin_eruptions, chills",Gastroenteritis,15.6,Medium,Gastroenterologist,,,,,,
+2026-06-09 13:53:24,"skin_rash, anxiety, weight_loss",Fungal infection,16.63,Low,Dermatologist,,,,,,
+2026-06-09 13:53:47,"acidity, stomach_pain, vomiting",GERD,26.67,Medium,Gastroenterologist,,,,,,
+2026-06-09 14:04:50,"joint_pain, muscle_wasting, high_fever",AIDS,39.52,High,Infectious Disease Specialist,Ali Khan,28.0,Male,,,
+2026-06-09 14:05:40,"joint_pain, muscle_wasting, high_fever",AIDS,39.52,High,Infectious Disease Specialist,Ali Khan,28.0,Male,,,
+2026-06-09 14:49:47,"itching, skin_rash, continuous_sneezing",Fungal infection,39.02,Low,Dermatologist,Ali Khan,28.0,Male,175.0,70.0,120/80
+2026-06-09 16:00:27,"itching, nodal_skin_eruptions, shivering",Fungal infection,44.34,Low,Dermatologist,Ali Khan,28.0,Male,175.0,70.0,120/80
+2026-06-09 16:00:27,"itching, nodal_skin_eruptions, shivering",Fungal infection,44.34,Low,Dermatologist,Ali Khan,28.0,Male,175.0,70.0,120/80
+2026-06-09 16:03:39,"skin_rash, nodal_skin_eruptions, shivering",Fungal infection,41.83,Low,Dermatologist,Ali Khan,28.0,Male,175.0,70.0,120/80
+2026-06-09 16:06:39,"chills, acidity, burning_micturition",Urinary tract infection,16.03,Medium,Urologist,Asad,28,Male,175,70,120/80
