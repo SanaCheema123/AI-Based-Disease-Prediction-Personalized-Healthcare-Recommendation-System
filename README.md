@@ -1,4 +1,12 @@
+
+[Uploading screen-capture (8).webm…]()
+
 # AI-Based Disease Prediction & Personalized Healthcare Recommendation System
+<img width="959" height="443" alt="p1" src="https://github.com/user-attachments/assets/5e8c5f93-e913-4d4f-9515-18fc42239539" />
+<img width="960" height="403" alt="p2" src="https://github.com/user-attachments/assets/5d189ebb-0f7a-47b9-85af-dc734d0bf97b" />
+<img width="959" height="437" alt="p3" src="https://github.com/user-attachments/assets/a8aac35f-b4cd-4ac1-8bac-3739201fc112" />
+<img width="955" height="447" alt="p4" src="https://github.com/user-attachments/assets/0e1c2d49-0ab2-4561-9df9-422c8ead1033" />
+
 
 ## Overview
 This project predicts diseases from patient symptoms using a trained Support Vector Machine (SVM) model and provides personalized healthcare recommendations including precautions, diet plans, risk levels, and specialist recommendations.
