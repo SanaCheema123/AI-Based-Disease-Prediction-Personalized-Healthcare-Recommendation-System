@@ -1,5 +1,6 @@
 
-[Uploading screen-capture (8).webm…]()
+[screen-capture (8).webm](https://github.com/user-attachments/assets/b3e1b217-a808-44ac-a86e-d26ed6a45ad3)
+
 
 # AI-Based Disease Prediction & Personalized Healthcare Recommendation System
 <img width="959" height="443" alt="p1" src="https://github.com/user-attachments/assets/5e8c5f93-e913-4d4f-9515-18fc42239539" />
